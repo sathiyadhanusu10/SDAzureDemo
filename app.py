@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Hello, World!"
+    return "https://docs.microsoft.com/en-us/training/modules/migrate-app-service-migration-assistant/"
